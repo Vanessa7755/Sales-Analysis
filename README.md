@@ -1,6 +1,7 @@
 # Sales-Analysis
 # Overview
-This dataset contains the sales of coffee. Data cleaning and visualization, The benefit of this data analysis is to improve decision making and increase efficiency by data driven insights
+This dataset contains the sales of BMW cars for the year 2010. Data cleaning and visualization, The benefit of this data analysis is to improve decision making and increase efficiency by data driven insights.
 # Data Source
-This data is gotten from kaggle
-[download here](https://storage.googleapis.com/kaggle-data-sets/8328828/13146007/bundle/archive.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20251012%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251012T140852Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=2a4fda405f7666eeb181f85ddb4e1cdbc6334235afa02f508eff9ee07db2618d072ab48df8e10bda82c2775a23939329a576ece85654d2b16c397be38b837f3801bc58a8e0b68971808581a872379d2af5d6de86cf306d22bf2f2b21704cc5bd6bcb41ecac1432accf9ead33ed294eae109b64ef151d693e0a65e3d38df492230537caf5b84840fede36e42f4469d9aff536ee5a2feaaa72da04fcd6c23d3d739a97c202410577fa817e61b859fb57eeedcafd5cbf6a76c6b3531ec3a4a9013cd2360a4efdcb6cd9747d1a9d1276e8028d9065571c53845b99a9b6a656f80f4b0e4fa83ccb1fb63ba4ab49483168f8b29eb6fdd0fd997a5932899343c7bfcf98))
+This data is gotten from kaggle[![car sales data set](https://github.com/user-attachments/assets/8ccbb7e6-3d6f-46a3-b5ba-cac8d7a5599b)
+
+
